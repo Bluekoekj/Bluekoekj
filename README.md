@@ -6,10 +6,8 @@ I'm Bluekoekj, and youv'e landed at my GitHub profile! Here is what I do
 
 I have a website being hosted on GitHub, located at https://bluekoekj.github.io and it regularly gets updates, so don't worry about a missing feature or something
 
-## Photography
+## Technology 
 
-I like taking lots of photos, and have recently bought a camcorder to take more photos. I wont show you them here, but you can go to https://bluekoekj.github.io/photograpy if you want that.
+I am a huge technology person, and you can visit the official Technically Thomas website here! : https://bluekoekj.github.io/tt
 
-**Please be aware that this readme is not complete and more stuff will be added soon**
-
-#### Revision 1
+#### Revision 1.1
