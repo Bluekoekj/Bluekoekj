@@ -1,21 +1,44 @@
-### Oh hello there! 👋
+#  Hello there
 
-I'm ThoughtfulDolphin3583, and youv'e landed at my GitHub profile! Here is what I do
+I use GitHub for mostly projects, as bluekoekj.github.io was removed and replaced with Google Sites
 
-## My website
+# Frequently asked questions
 
-I have a website being hosted on GitHub, located at https://bluekoekj.github.io and it regularly gets updates, so don't worry about a missing feature or something
+I ***r e g u l a r l y*** get asked these, and they are insane, so just read them.
 
-## Technology 
+### Question one: What is your favourite color?
 
-I am a huge technology person, and you can visit the official Technically Thomas website here! : https://bluekoekj.github.io/tt
+I like all colors
 
-## My YouTube channels!
+### Question two: If you had £1bn, what would you use it on?
 
-Techinically Thomas: https://www.youtube.com/channel/UCRLxEXM5PfjpDJSgNe2IF4w/featured
+I would use it on home essentials first, and then buy things that are more expensive
 
-Main channel: https://www.youtube.com/channel/UC0IUZ0gpxMzDT7cbXMDwAbQ
+### Question three: Can I add you on Rec Room?
 
+Yes you can on @WavetecRR! 
 
+### Question four: Do you post on YouTube?
 
-#### Revision 1.2
+Yes, I post mostly on my WavetecRR channel, but I also have my other channels listed on the WavetecRR channel. 
+
+WavetecRR on YouTube: https://www.youtube.com/channel/UCSqGAr1xWjQsl2zDPAiDPNw/
+
+### Question five: What is your favourite song?
+
+I like all of the songs on my phone and a few more that aren't. My most favourite may have to be Milli2nd's LOSER.
+
+### Question six: What computer do you use on a day to day basis?
+
+I use a HP 15" laptop with an Intel Iris XE GPU, some Intel Core i5 processor and 128GB of storage (though it feels like 64GB)
+
+### Question seven: Can you review the malware I made in VBScript
+
+I can try, and I can even improve it to the point where your computer is dead basically
+
+### Question eight: Do you have a Rec Room GF?
+
+***NO!***
+
+Well, thats all imma write right now.
+
