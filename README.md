@@ -42,3 +42,7 @@ I can try, and I can even improve it to the point where your computer is dead ba
 
 Well, thats all imma write right now.
 
+### Can I follow you on Twitter?
+
+Yes you can! (https://twitter.com/wavetecrr)
+
