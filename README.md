@@ -44,5 +44,5 @@ Well, thats all imma write right now.
 
 ### Can I follow you on Twitter?
 
-Yes you can! (https://twitter.com/wavetecrr)
+Yes you can! (https://twitter.com/realwavetecrr)
 
